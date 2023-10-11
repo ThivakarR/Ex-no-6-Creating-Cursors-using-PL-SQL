@@ -51,3 +51,4 @@ END;
 ![271008411-ac2f440b-2f4c-420e-9e85-95df1232cf59](https://github.com/ThivakarR/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/118707074/379d5d29-dd8e-4de5-960d-5d1c95ebb0e0)
 
 ### Result:
+Thus a cursor using PL/SQL is created successfully
